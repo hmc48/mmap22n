@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "geo_ショートステイ(医療)",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "URL": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_023_kani=true&JigyosyoCd=2217211057-00&ServiceCd=230&Type=search", "区分": "ショートステイ(医療)", "事業所番号": "2217211057", "施設名": "医療法人社団　心　坂の上在宅医療支援医院", "郵便番号": "〒433-8123", "所在地": "静岡県浜松市中央区幸4-36-2", "電話番号": "053-416-2014", "サービス提供地域": "－", "緯度": 34.7460029, "経度": 137.7325395, "内容2": "医療法人社団　心　坂の上在宅医療支援医院【ショートステイ(医療)】【サービス提供地域:－】" }, "geometry": { "type": "Point", "coordinates": [ 137.7325395, 34.7460029 ] } },
-{ "type": "Feature", "properties": { "URL": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_023_kani=true&JigyosyoCd=2217110549-00&ServiceCd=230&Type=search", "区分": "ショートステイ(医療)", "事業所番号": "2217110549", "施設名": "医療法人社団一穂会　西山病院", "郵便番号": "〒432-8001", "所在地": "静岡県浜松市西区西山町５００番地", "電話番号": "053-485-5558", "サービス提供地域": "－", "緯度": 34.7375343, "経度": 137.6885175, "内容2": "医療法人社団一穂会　西山病院【ショートステイ(医療)】【サービス提供地域:－】" }, "geometry": { "type": "Point", "coordinates": [ 137.688517499999989, 34.7375343 ] } }
-]
-}
